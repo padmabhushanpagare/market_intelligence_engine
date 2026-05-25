@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data & Models (Keep your proprietary CSVs local)
+*.csv
+*.pkl
+
+# OS Files
+.DS_Store
