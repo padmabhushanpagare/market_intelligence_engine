@@ -50,7 +50,8 @@ cd market_intelligence_engine
 pip install -r requirements.txt
 ```
 # 3. Setup Data
-# Place your institutional options chain CSV (must contain strike_price, option_type, open_interest, gamma, active_underlying_price) in the root directory.
+
+Place your institutional options chain CSV (must contain strike_price, option_type, open_interest, gamma, active_underlying_price) in the root directory.
 
 # 4. Train the ML Model
 ```bash
