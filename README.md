@@ -42,7 +42,7 @@ The engine operates on a three-tier architecture:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/padmabhushanpagare/market_intelligence_engine.git](https://github.com/padmabhushanpagare/market_intelligence_engine.git)
+git clone (https://github.com/padmabhushanpagare/market_intelligence_engine.git)
 cd market_intelligence_engine
 ```
 # 2. Install dependencies
